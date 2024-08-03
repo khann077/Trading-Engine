@@ -1,0 +1,12 @@
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\LoggingCS.AssemblyInfo.cs
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Logging.cs\bin\Debug\net8.0\TradingEngineServer.Logging.deps.json
+C:\Users\dev\source\repos\Logging.cs\bin\Debug\net8.0\TradingEngineServer.Logging.dll
+C:\Users\dev\source\repos\Logging.cs\bin\Debug\net8.0\TradingEngineServer.Logging.pdb
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\TradingEngineServer.Logging.dll
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\refint\TradingEngineServer.Logging.dll
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\TradingEngineServer.Logging.pdb
+C:\Users\dev\source\repos\Logging.cs\obj\Debug\net8.0\ref\TradingEngineServer.Logging.dll
